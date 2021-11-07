@@ -356,7 +356,6 @@ public class xHub extends JavaPlugin {
 	public void registerScoreboard() {
 		try {
 			if (!(new CallBack(getConfig().getString("License"), "https://system.xenlan.services/verify.php", this)).register()) {
-				return;
 			}
 		} catch (NoClassDefFoundError var2) {
 			Bukkit.getPluginManager().enablePlugin(this);
