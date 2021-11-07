@@ -1,3 +1,4 @@
+This is a xHub fork made by me it removes the License System and the "I think this might be cracked!" Message
 # xHub
  xHub is a hub core that has ALOT of features and something I've spent a lot of time on and decided to open source it. This is mainly because people say I can't code, but it's what ever!!!!!!
  
