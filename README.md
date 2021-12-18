@@ -1,13 +1,6 @@
-This is a xHub fork made by me it removes the License System and the "I think this might be cracked!" Message
-# xHub
- xHub is a hub core that has ALOT of features and something I've spent a lot of time on and decided to open source it. This is mainly because people say I can't code, but it's what ever!!!!!!
- 
- You can do anything with this I really do not care, but just DO NOT try to claim it is yours. If you do end up using it atleast give credits <3
+Developer @ Hely Development 
+Owner @ ViperMC 
 
- Telegram: LBuddyBoy
- Discord: LBuddyBoy#6163
- Twitter: @LBuddyBoy
-
- Have Fun!
- 
- Note: EVERYTHING is configurable... and I mean everything.
+This is my custom Hub Core.
+I coded this myself 100% Haters gonna hate sike im not taking credit for this 💩 code.
+No offence LBuddyBoy but yea not good bruh u can have all credits.
